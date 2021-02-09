@@ -1,0 +1,23 @@
+Version: 1.4.0
+
+  - Changed Animation colors
+  - Footer changes 
+
+Version: 1.3.0
+
+  - Fixed Some Padding And Margin Issues
+  - Read More Button Added in cards
+
+Version: 1.2.0
+  - Added links in Homepage
+  - Change Size of tagline in all pages(Small)
+  - Added Comments in all pages for better understanding of code
+  - Optimized Footer Logo img
+  - Optimized Search button
+
+
+Version: 1.1.0
+  - Fixed Some Bugs and Padding Issues
+  
+Version: 1.0.0
+  - Initial Release
